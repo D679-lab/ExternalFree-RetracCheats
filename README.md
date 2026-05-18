@@ -9,12 +9,12 @@ This project was made by me. I’ve shown previews of what it does, and I’m wo
 
 ## How to Install
 
-1. Download `ExternalRetrac.zip`
+1. Download `ExternalFree`
 2. Drag the ZIP to your desktop
 3. Right-click the ZIP and click **Extract All**
 4. Open the extracted folder
 5. You should see:
-   - `RetracEspVersion3`
+   - ``
    - `README.md`
 
 ## How to Run
