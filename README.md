@@ -1,8 +1,42 @@
-This is not a virus. I have showed a preview of what it does. just follow the steps and you should be good.
-On 5/18/26 I will be making a new version wth better esp and better lock on.
-Go to help for help in the discord.
-Download the zip file and drag onto your desktop
-Then right click and click extract all after that go into the new folder and you will see the RetracEspVersion3 and the readme
-After open command prompt and search up on youtube how to go to directories / desktop in command prompt after you are there go to the directories where the folder is  'external retrac' and go inside that folder and then 
-type python followed by a space then RetracEspVersion3   Just type Retrac and hit tab to do it faster.
-HAVE FUNN!!!!
+# External Retrac
+
+This project was made by me. I’ve shown previews of what it does, and I’m working on updates over time.
+
+## Updates
+- New version planned for **5/18/26**
+- Improved ESP
+- Better lock-on system
+
+## How to Install
+
+1. Download `ExternalRetrac.zip`
+2. Drag the ZIP to your desktop
+3. Right-click the ZIP and click **Extract All**
+4. Open the extracted folder
+5. You should see:
+   - `RetracEspVersion3`
+   - `README.md`
+
+## How to Run
+
+1. Open **Command Prompt**
+2. Go to your desktop folder and navigate into the extracted project folder
+
+Example:
+```bash
+cd Desktop
+cd external retrac
+```
+
+3. Run the file:
+
+```bash
+python RetracEspVersion3.py
+```
+
+Tip: You can type `Retrac` and press **TAB** to auto-complete the filename faster.
+
+## Help
+Need help? Join the Discord or check setup tutorials if you’re stuck.
+
+Have fun!
