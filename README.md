@@ -1,7 +1,5 @@
 # External Retrac
 
-This project was made by me. I’ve shown previews of what it does, and I’m working on updates over time.
-
 ## Updates
 - New version planned for **5/18/26**
 - Improved ESP
@@ -9,34 +7,49 @@ This project was made by me. I’ve shown previews of what it does, and I’m wo
 
 ## How to Install
 
-1. Download `ExternalFree`
-2. Drag the ZIP to your desktop
-3. Right-click the ZIP and click **Extract All**
+1. Download `ExternalFree-RetracCheats-main.zip`
+2. Move it to your Desktop
+3. Right-click → **Extract All**
 4. Open the extracted folder
-5. You should see:
-   - ``
-   - `README.md`
+
+You should see:
+- `ExternalFree-RetracCheats-main.zip`
+- `README.md`
+
+5. Extract the second ZIP
+6. Open the new folder until you find:
+
+```txt
+RetracEspVersion3.py
+```
 
 ## How to Run
 
-1. Open **Command Prompt**
-2. Go to your desktop folder and navigate into the extracted project folder
+1. Open Command Prompt
 
-Example:
+2. Go to your desktop:
+
 ```bash
 cd Desktop
-cd external retrac
 ```
 
-3. Run the file:
+3. Drag the folder that contains `RetracEspVersion3.py` into Command Prompt and press Enter.
+
+Example:
+
+```bash
+cd C:\Users\YourName\Desktop\ExternalRetrac\ExternalRetrac
+```
+
+4. Run the file:
 
 ```bash
 python RetracEspVersion3.py
 ```
 
-Tip: You can type `Retrac` and press **TAB** to auto-complete the filename faster.
+Tip: Type `Retrac` and press **TAB** to auto-complete the filename.
 
 ## Help
-Need help? Join the Discord or check setup tutorials if you’re stuck.
+Need help? Join the Discord.
 
 Have fun!
