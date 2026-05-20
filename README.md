@@ -7,16 +7,18 @@
 
 ## How to Install
 
-1. Download `ExternalFree-RetracCheats-main.zip`
+1. Download `ExternalRetrac.2.zip
+`
 2. Move it to your Desktop
 3. Right-click → **Extract All**
 4. Open the extracted folder
 
 You should see:
-- `ExternalFree-RetracCheats-main.zip`
+- `ExternalRetrac.2.zip
+`
 - `README.md`
 
-5. Extract the second ZIP
+5. Delete the second ZIP
 6. Open the new folder until you find:
 
 ```txt
